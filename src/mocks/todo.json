@@ -1,0 +1,42 @@
+[
+  {
+    "task": "Water the plant",
+    "done": false,
+    "dateCreated": "2018/03/25",
+    "dateCompleted": null,
+    "archived": false,
+    "creator": "Romain"
+  },
+  {
+    "task": "Go for run",
+    "done": false,
+    "dateCreated": "2018/03/25",
+    "dateCompleted": null,
+    "archived": false,
+    "creator": "Romain"
+  },
+  {
+    "task": "Cook dinner",
+    "done": false,
+    "dateCreated": "2018/03/25",
+    "dateCompleted": null,
+    "archived": false,
+    "creator": "Romain"
+  },
+  {
+    "task": "Do homework",
+    "done": false,
+    "dateCreated": "2018/03/25",
+    "dateCompleted": null,
+    "archived": false,
+    "creator": "Romain"
+  },
+  {
+    "task": "Cleaning House",
+    "done": false,
+    "dateCreated": "2018/03/25",
+    "dateCompleted": null,
+    "archived": false,
+    "creator": "Romain"
+  }
+]
